@@ -15,9 +15,18 @@ Also: [typed-html](https://github.com/nicojs/typed-html), [tailwind-css](https:/
 
 1. Clone this repo
 
-2. Install [Bun](https://bun.sh)
+2. You can create a database very quickly. 
 
-3. Run `bun install` to install dependencies
+Go to the main project and clone my repository at:
+ ```sh
+git clone https://github.com/ala-garbaa-pro/AutoDockerMySQL
+```
+(don't forget to give it a star). ⭐
+
+
+3. Install [Bun](https://bun.sh)
+
+4. Run `bun install` to install dependencies
 
 4.1. Run `bun run db:gm` to push the database schema to your database
 ```log
